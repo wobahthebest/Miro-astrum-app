@@ -1,0 +1,82 @@
+{
+  "NavBar": {
+    "product": "Mahsulot",
+    "solutions": "Yechimlar",
+    "resources": "Resurslar",
+    "enterprise": "Korporativ",
+    "pricing": "Narxlar",
+    "Contact-Sales": "Savdo bilan bog'lanish"
+  },
+  "HeroPage": {
+    "title": "G'oyalarni yaxshiroqdan eng yaxshiga olib boring",
+    "pragraph": "Miro — jamoangiz uchun bog‘lanish, hamkorlik qilish va birga yaratish uchun vizual platformadir.",
+    "input": "Ish elektron pochtangizni kiriting",
+    "subParagraph": "Jamoangiz bilan bir necha daqiqada hamkorlik qiling"
+  },
+  "Body1": {
+    "title": "Chegaralarsiz hamkorlik qiling",
+    "sub-title1": "Har doim bepul",
+    "sub-title2": "Oson integratsiyalar",
+    "sub-title3": "Xavfsizlik birinchi o'rinda",
+    "paragraph1": "Bepul rejamiz cheksiz jamoa a'zolari, 3 ta doska va 300+ mutaxassis tomonidan yaratilgan shablonlarni taqdim etadi. Ish elektron pochtangiz bilan ro‘yxatdan o‘tish jamoangizni tezroq jalb qilishga yordam beradi. Ko‘proq xususiyatlar uchun narxlar rejalarimizni ko‘rib chiqing.",
+    "paragraph2": "Miro siz foydalanadigan vositalar bilan uzluksiz ishlashni ta’minlash uchun G Suite, Slack va Jira kabi 100+ kuchli integratsiyaga ega. To‘liq ro‘yxatni Marketpleysimizda ko‘ring.",
+    "paragraph3": "Ma'lumotlaringizga siz qanday munosabatda bo'lsangiz, biz ham shunday ehtiyotkorlik bilan yondashamiz. Biz sanoatning yetakchi xavfsizlik standartlariga rioya qilamiz va intellektual mulkingizni himoya qilish vositalarini taqdim etamiz. Ko‘proq ma’lumot olish uchun Ishonch markazimizga tashrif buyuring."
+  },
+  "Body2": {
+    "title": "Qayerda ishlashingizdan qat'i nazar, birga ishlang",
+    "paragraph": "Ofisda, masofaviy yoki ularning kombinatsiyasida — Miro bilan jamoangiz bitta joyda bog‘lanishi, hamkorlik qilishi va birgalikda yarata oladi.",
+    "link": "Batafsil ma'lumot"
+  },
+  "Body3": {
+    "title": "Vositalaringizni bog'lang, ortiqcha sahifalarni yoping",
+    "paragraph": "Google Docs-ni tahrirlash, Jira muammolarini hal qilish yoki Zoom orqali hamkorlik qilishni xohlaysizmi — Miro siz allaqachon ishlatayotgan va yoqtirgan vositalar bilan 100+ integratsiyaga ega.",
+    "link": "Batafsil ma'lumot"
+  },
+  "Body4": {
+    "title": "Ishlash usullarimiz",
+    "paragraph": "Ish bilan bo'lgan munosabatimiz qanday o'zgardi?",
+    "link": "Hisobotni ko‘rish"
+  },
+  "Body5": {
+    "title": "Har xil jamoalar uchun moslashtirilgan",
+    "NavBar": {
+      "UX-&-Design": "UX & Dizayn",
+      "marketing": "Marketing",
+      "product-management": "Mahsulot boshqaruvi",
+      "engineering": "Muhandislik",
+      "consultants": "Konsultantlar",
+      "agile-coaches": "Agile murabbiylari",
+      "sales": "Savdo"
+    },
+    "paragraph1": "Past aniqlikdagi wireframe chizish",
+    "paragraph2": "Dizayn jarayoniga manfaatdor tomonlarni jalb qilish",
+    "paragraph3": "Qiziqarli dizayn seminarlarini o'tkazish",
+    "link": "Batafsil ma'lumot",
+    "paragraph4": "Sevimli vositalaringizni integratsiya qiling"
+  },
+  "Body6": {
+    "title": "Katta va kichik kompaniyalar nega Mirolga ishonadi",
+    "sub-title": "Namoyish so‘rash uchun savdo bo‘limiga murojaat qiling",
+    "paragraph1": "ISO-27001 xavfsizlik standartlariga mos",
+    "paragraph2": "G2 dagi vizual hamkorlik platformasi",
+    "paragraph3": "Fortune 100 kompaniyalarining mijozlari",
+    "paragraph4": "Jamoa va mutaxassislar tomonidan yaratilgan shablonlar",
+    "paragraph5": "Dunyo bo'ylab foydalanuvchilar",
+    "paragraph6": "Texnologiya hamkorlari bilan integratsiyalar"
+  },
+  "Body7": {
+    "title": "Dunyoning eng yaxshi jamoalari tomonidan sevib ishlatiladi",
+    "link": "Barcha mijoz hikoyalarini ko‘rish",
+    "sub-title1": "vmware",
+    "sub-title2": "DocuSign",
+    "sub-title3": "frog",
+    "paragraph1": "“Pandemiya boshlanganida, shaxsiy hamkorlik bilan ishlaydiganlar ijodkorlik va unumdorligimizga zarar yetadi deb xavotirda edik. Miro masofadan turib hamkorlik qilish, taxta ustida ishlash va retrospektivalar uchun mukammal vosita bo‘ldi.”",
+    "paragraph2": "“Miro mahsulot dizaynidagi asosiy muammolardan birini hal qilishga yordam beradi: turli vositalarda ishlayotgan mahsulot dizaynerlari orasida vazifalarni boshqarish.”",
+    "paragraph3": "“Mirodan foydalana boshlaganimizda, shubha bilan qarashdan, ishonchga, keyin innovatsiyaga o‘tdik. Endi bu bizning asosiy vositamiz bo‘lib, kelajakda ham kengayishda davom etadi.”"
+  },
+  "Body8": {
+    "title": "Bugun 45M+ foydalanuvchiga qo‘shiling",
+    "paragraph1": "Bepul boshlang — istalgan vaqtda yangilang.",
+    "paragraph2": "Tashkilot sifatida qo‘shilyapsizmi? Savdo bo‘limiga murojaat qiling"
+  }
+}

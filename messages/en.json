@@ -1,0 +1,84 @@
+{
+  "NavBar": {
+    "product": "Product",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "enterprise": "Enterprise",
+    "pricing": "Pricing",
+    "Contact-Sales": "Contact Sales"
+  },
+  "HeroPage": {
+    "title": "Take ideas from better to best",
+    "pragraph": "Miro is your team's visual platform to connect, collaborate, and create — together.",
+    "input": "Enter your work email",
+    "subParagraph": "Collaborate with your team within minutes"
+  },
+  "Body1": {
+    "title": "Collaborate without constraints",
+    "sub-title1": "Free forever",
+    "sub-title2": "Easy integrations",
+    "sub-title3": "Security first",
+    "paragraph1": "Our free plan gives you unlimited team members, 3 boards, and 300+ expert-made templates. Signing up with your work email lets you bring in your team faster. See our pricing plans for more features.",
+    "paragraph2": "Miro has 100+ powerful integrations with tools you already use like G Suite, Slack, and Jira, so your workflow is seamless. View the full list in our Marketplace .",
+    "paragraph3": "We treat your data like you would — with the utmost care. We follow industry-leading security standards and give you tools to protect intellectual property. Learn more at our Trust Center ."
+  },
+  "Body2": {
+    "title": "Work together, wherever you work",
+    "paragraph": "In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and co-create in one space no matter where you are.",
+    "link": "Learn more"
+  },
+
+  "Body3": {
+    "title": "Connect your tools,  close your tabs",
+    "paragraph": "Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love",
+    "link": "Learn more"
+  },
+  "Body4": {
+    "title": "The Ways We Work",
+    "paragraph": "How has our relationship with work changed?",
+    "link": "View the report"
+  },
+  "Body5": {
+    "title": "Built for all kinds of teams",
+    "NavBar": {
+      "UX-&-Design": "UX & Design",
+      "marketing": "Marketing",
+      "product-management": "Product Management",
+      "engineering": "Engineering",
+      "consultants": "Consultants",
+      "agile-coaches": "Agile Coaches",
+      "sales": "Sales"
+    },
+    "paragraph1": "Build low-fi wireframes",
+    "paragraph2": "Involve stakeholders in the design process",
+    "paragraph3": "Run engaging design workshops",
+    "link": "Learn more",
+    "paragraph4": "Integrate your favorite tools"
+  },
+  "Body6": {
+    "title": "Why companies large and small trust Miro",
+    "sub-title": "Contact Sales to request a demo",
+    "paragraph1": "ISO-27001 enterprise-grade security compliant",
+    "paragraph2": "Visual Collaboration Platform on G2",
+    "paragraph3": "of the Fortune 100 are customers",
+
+    "paragraph4": "community- and expert-built templates",
+    "paragraph5": "users around the world",
+    "paragraph6": "integrations with technology partners"
+  },
+  "Body7": {
+    "title": "Loved by the world's best teams",
+    "link": "See all customer stories",
+    "sub-title1": "vmware",
+    "sub-title2": "DocuSign",
+    "sub-title3": "frog",
+    "paragraph1": "“When the pandemic hit, those of us who thrive on in-person collaboration were worried that our creativity and productivity would suffer. Miro was the perfect tool to help us with collaboration, whiteboarding, and retrospectives while remote.”",
+    "paragraph2": "“Miro helps solve one of the major gaps in product design: how to manage tasks across product designers whose projects are in different tools.”",
+    "paragraph3": "“As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”"
+  },
+  "Body8": {
+    "title": "Join 45M+ users today",
+    "paragraph1": "Start for free — upgrade anytime.",
+    "paragraph2": "Joining as an organization? Contact Sales"
+  }
+}
