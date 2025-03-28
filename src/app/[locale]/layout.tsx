@@ -36,7 +36,7 @@ export default async function RootLayout({
   }
 
   return (
-    <html lang={locale}>
+    <html data-theme="cupcake" lang={locale}>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
