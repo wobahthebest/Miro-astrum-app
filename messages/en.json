@@ -34,9 +34,19 @@
     "link": "Learn more"
   },
   "Body4": {
-    "title": "The Ways We Work",
-    "paragraph": "How has our relationship with work changed?",
-    "link": "View the report"
+    "title": "Built for the way you work",
+    "NavBar": {
+      "brainstorming": "Brainstorming",
+      "diagramming": "Diagramming",
+      "meetings-Workshops": "Meetings & Workshops",
+      "scrum-Events": "Scrum Events",
+      "mapping": "Mapping",
+      "research-Design": "Research & Design",
+      "strategic-Planning": "Strategic Planning"
+    },
+    "sub-title": "Brainstorming",
+    "paragraph": "Unleash creative ideas and build on them with the help of sticky notes, images, mind maps, videos, drawing capabilities — the list goes on.",
+    "link": "Learn more"
   },
   "Body5": {
     "title": "Built for all kinds of teams",

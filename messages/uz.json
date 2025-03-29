@@ -33,9 +33,19 @@
     "link": "Batafsil ma'lumot"
   },
   "Body4": {
-    "title": "Ishlash usullarimiz",
-    "paragraph": "Ish bilan bo'lgan munosabatimiz qanday o'zgardi?",
-    "link": "Hisobotni ko‘rish"
+    "title": "Ish uslubingizga mos ravishda yaratilgan",
+    "NavBar": {
+      "brainstorming": "G‘oyalar yaratish",
+      "diagramming": "Diagrammalar tuzish",
+      "meetings-Workshops": "Uchrashuvlar va seminarlar",
+      "scrum-Events": "Scrum tadbirlari",
+      "mapping": "Xaritalash",
+      "research-Design": "Tadqiqot va dizayn",
+      "strategic-Planning": "Strategik rejalashtirish"
+    },
+    "sub-title": "G‘oyalar yaratish",
+    "paragraph": "Yopishqoq eslatmalar, rasmlar, aqliy xaritalar, videolar, chizish imkoniyatlari va boshqa vositalar yordamida ijodiy g‘oyalarni ochib bering va ularni rivojlantiring.",
+    "link": "Batafsil ma’lumot"
   },
   "Body5": {
     "title": "Har xil jamoalar uchun moslashtirilgan",
