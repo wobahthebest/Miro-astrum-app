@@ -6,7 +6,6 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import FooterNav from "@/components/FooterNav";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,8 +41,9 @@ export default async function RootLayout({
         <NextIntlClientProvider>
           <Navbar />
           {children}
-          <Footer />
-          <FooterNav />
+          <div className="bg-info-content w-full p-10">
+            <Footer />
+          </div>
         </NextIntlClientProvider>
       </body>
     </html>
